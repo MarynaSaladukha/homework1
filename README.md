@@ -1,3 +1,4 @@
 # homework1
 homework python
-git course
+Maryna Saladukha
+15.10.2020
